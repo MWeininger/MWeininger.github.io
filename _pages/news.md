@@ -4,4 +4,4 @@ title: "News"
 ---
 
 
-Here be news.
+Here be news in the future.
