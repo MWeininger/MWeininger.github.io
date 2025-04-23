@@ -3,6 +3,13 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a researcher interested in the formal verification of safety-critical systems.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I did my PhD at [Technical University of Munich](https://www.cit.tum.de/cit/startseite/) under the supervision of [Jan Kretinsky](https://www7.in.tum.de/~kretinsk/).
+Then, I was a Marie Sklodowska-Curie fellow ([IST-BRIDGE](https://ist.ac.at/en/education/postdocs/ist-bridge/)) at the [Institute of Science and Technology Austria](https://ist.ac.at/en/education/postdocs/ist-bridge/), working with [Krishnendu Chatterjee](https://ist.ac.at/en/education/postdocs/ist-bridge/).
+Currently, I am a PostDoc in [the AI-FM group](https://informatik.rub.de/en/research/chairs/aifm/) lead by [Nils Jansen](https://nilsjansen.org/) at the [Ruhr-University Bochum](https://informatik.rub.de/en/).
+
+For more information about me, you can check out:
+- my [publications on dblp](https://dblp.org/pid/194/2910.html),
+- my [CV and publication list](/assets/cv-weininger-23-04-25) (last updated April 2025),
+- or [my thesis](https://mediatum.ub.tum.de/1661588) which summarizes the major research directions I pursue.

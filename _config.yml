@@ -62,14 +62,15 @@ author:
   links:
     - label: "Ruhr-University Bochum"
       icon: "fa fa-fw fa-map-marker"
+      url: "https://informatik.rub.de/en/research/chairs/aifm/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:maximilian.weininger@rub.de"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=88fkEooAAAAJ&hl=en"
-    - label: "Instagram"
-      icon: "ai ai-orcid-square ai-fw"
+    - label: "Orcid"
+      icon: "fa fa-user"
       url: "https://orcid.org/0000-0002-0163-2152"
 
 #footer:
@@ -98,9 +99,9 @@ defaults:
       layout: single
       author_profile: true
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+#category_archive:
+  #type: liquid
+  #path: /categories/
+#tag_archive:
+  #type: liquid
+  #path: /tags/
