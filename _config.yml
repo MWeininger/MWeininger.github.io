@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Maximilian Weininger"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Theoretical computer scientist in verification and synthesis."
+  bio    : "Theoretical computer scientist researching formal verification of safety-critical systems."
   links:
     - label: "Ruhr-University Bochum"
       icon: "fa fa-fw fa-map-marker"
